@@ -1,1 +1,3 @@
-This is my new repository for Lab2
+theme: jekyll-theme-minimal
+title: Ryan's homepage
+description: This is my Github Pages for LAB 2
